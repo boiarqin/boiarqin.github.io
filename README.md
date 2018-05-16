@@ -3,7 +3,7 @@ Collection of games implemented with various front-end tools/frameworks
 
 ## Projects
 - settlers-react: Settlers of Catan game built with React, Redux and Typescript
-	- [Demo, as of May 16, 2018](https://boiarqin.github.io/settlers-react/)
+	- [Demo with 4 basic bots, as of May 16, 2018](https://boiarqin.github.io/settlers-react/)
 	- [Github repo](https://github.com/boiarqin/settlers-react)
 - set-react: SET card game in React and Ramda
 	- [Demo](https://boiarqin.github.io/set-react/)
